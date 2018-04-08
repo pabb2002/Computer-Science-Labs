@@ -1,0 +1,12 @@
+Pranav Abbaraju
+
+1. .java
+2. A project folder must be created (src).
+3. a.The source code is compiled into byte code, then it is translated into machine language (two-step process), b. A compiler takes the entire code and converts it, whereas an interpretor like in python, translates line by line. That's why a compiler lists out all errors instead of stopping at the first one.
+4. The class name must be identical to the file name in Java, and both must be capitalized.
+5. a. method, b. variable, c. class
+6. The main method is missing. There should be a "public static void main(String[] args){" inside of the class, along with another closing curly brace.
+7. The main method is missing the 'void' in it.
+8. The print method is incorrect; it should be "System.out.println();"
+9. There should be a semicolon at the end of the print method.
+10.The BasicsQuiz class should not be indented.

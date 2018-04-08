@@ -1,0 +1,15 @@
+1.What allows Java to be run cross platform? --> Java can run cross platform because the Java Virtual Machine, which is in the JRE.
+2.What are the two .exe files neede for a Java program to be compiled and run? --> The two .exe files needed to run and compile a Java program are javac.exe (in the JDK), and java.exe (once you name the class).
+3.What is the big word that means to be in containers? --> The big word that means to be in a container is 'encapsulation' (using curly braces)
+4.What is the file extension for Java programs? --> .java
+5.What does the compiler do in java? --> It translates the java code into byte code, and then that is converted into binary.
+6.What does the interpreter do in Java/Python? --> In Python there is an interpreter that translates line by line into binary (one step), but in Java, the compiler takes the whole program and translates it (two step). Compiler error prints out all errors, but python stops at first error.
+7.What is so important about the name of the Java class and the file name of the program? --> Class name should be same as the file name.
+8.Explain how you will be able to tell the difference between a class name, a method, and a variable. --> A class name is capitalized. Methods are lowercase and have parentheses, but variables are lowercase and do not have parentheses.
+9.What is the first method the compiler looks for? --> The first method is the main method with a lowercase (public class void main(String[] args){)
+10.In the first method, the word 'Main'should be lowercase.
+11.'System' should be capitalized.
+12.The first class is not capitalized; it should be 'ReviewQuestions' (it runs but it is against convention).
+13.There is no semicolon at the end of the system.out.println method (since methods are not statements, they don't need semicolons, but this statement does)
+14.There is no double quote before the string literal (literals when you use a value or string without storing it in a variable, a variable is just a placeholder for a literal).
+15.There is no closing curly brace at the end.
