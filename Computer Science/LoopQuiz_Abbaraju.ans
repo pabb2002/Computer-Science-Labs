@@ -1,0 +1,16 @@
+Pranav Abbaraju
+
+1.start
+2.check
+3.action
+4.step
+5.start: 0
+6.check: range(4) => x < 4
+7.action: print x
+8.step: +1; x = x + 1 or x += 1
+9.The loop control variable is x. 
+10.start: 1  
+11.check: y < 10
+12.action: print y
+13.step: y += 1
+14.The loop control variable is y.

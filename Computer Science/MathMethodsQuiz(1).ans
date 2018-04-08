@@ -1,0 +1,12 @@
+Pranav Abbaraju
+
+1.from math import *
+2.The (*) is a wildcard which means that imports all of the methods in the math library. Its purpose is so that you can use the method without indicating the library name.
+3.In the math library, pi is the value of pi rounded to 12 decimal places.
+4.13.0
+5.20
+6.11.0
+7.86.0
+8.7.0
+9.75.9862
+10.343.0

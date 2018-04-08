@@ -1,0 +1,11 @@
+Pranav Abbaraju
+1.Small,Big
+2.Big,Small
+3.Nested loops means that there is a loop within a loop. Each time the outer loop runs, the inner loop runs a specific number of times.
+4.Outer
+5.Inner
+6.The start is 2, the check is if x < 10, and the step is x += 4.
+7.The print y will print 24 times.
+8.Positive
+9.Negative
+10.< or <=
